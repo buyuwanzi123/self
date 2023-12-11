@@ -1,0 +1,137 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.head {
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: #53a4b8
+}
+
+.head .first {
+    float: left;
+    font-size: 30px;
+    padding-left: 10px;
+    color: #effafb;
+    line-height: 50px;
+}
+
+.head .next {
+    float: left;
+    font-size: 16px;
+    margin: 0 35px;
+    color: #effafb;
+    line-height: 50px;
+
+}
+
+.pic {
+    text-align: center;
+    padding-top: 12px;
+}
+
+img {
+    width: 1100px;
+    height: 360px;
+}
+
+.two {
+    width: 1100px;
+    margin: 0 auto;
+    padding-top: 15px;
+    overflow: hidden;
+}
+
+.two .me {
+    float: left;
+    width: 400px;
+    height: 35px;
+    line-height: 35px;
+    padding-left: 20px;
+    background-color: #53a4b8;
+    font-size: 16px;
+    color: white;
+
+}
+
+.two .introduct {
+    float: right;
+    width: 600px;
+    height: 35px;
+    padding-left: 20px;
+    line-height: 35px;
+    background-color: #53a4b8;
+    font-size: 16px;
+    color: white;
+}
+
+.three {
+    width: 1100px;
+    height: 500px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.three .left {
+    float: left;
+    width: 400px;
+    height: 600px;
+}
+
+.three .right {
+    float: right;
+    width: 600px;
+    height: 600px;
+}
+
+.yuanxintouxiang {
+    float: none;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-image: url(touxiang.jpg);
+    background-size: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.jieshao {
+    margin-left: 40px;
+    margin-top: 55px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.jieshao ul li {
+    margin-bottom: 20px;
+}
+
+.right .kong {
+    float: none;
+    width: 580px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-image: url(preview.jpg);
+    background-size: 100%;
+}
+
+.right .last {
+    text-indent: 2em;
+    margin-top: 22px;
+}
+
+.bottom {
+    width: 1200px;
+    height: 50px;
+    background-color: #53a4b8;
+    margin: 0 auto;
+}
+
+.bottom .fin {
+    color: white;
+    padding-left: 450px;
+    line-height: 50px;
+}
